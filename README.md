@@ -1,5 +1,5 @@
 # Web-Security-Week-08
-### Hour Spent 8 hours
+### Hour Spent 14 hours
 
 # Blue
 #### Vulnerability 1: SQL Injection
